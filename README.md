@@ -1,7 +1,5 @@
 ### Hi, I'm George 👋
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/george-marais/)
-
 ## I'm a student at The University of Pretoria, South Africa, studying BIT (Information Systems).
 
 - 🌱 I’m currently focusing on learning web development languages and technologies.
@@ -10,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="GM | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GM | LinkedIn" width="22px" src="https://i.stack.imgur.com/gVE0j.png" />][linkedin]
 
 <br />
 
