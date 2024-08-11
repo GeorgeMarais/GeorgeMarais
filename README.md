@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="GM | LinkedIn" width="22px" src="[[https://i.stack.imgur.com/gVE0j.png](https://imgur.com/OQUXwNp)](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)" />][linkedin]
+<img align="left" alt="GM | LinkedIn" width="22px" src="[[https://i.stack.imgur.com/gVE0j.png](https://imgur.com/OQUXwNp)](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)" />
 
 <br />
 
