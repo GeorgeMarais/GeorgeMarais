@@ -1,10 +1,10 @@
 ### Hi, I'm George 👋
 
-## I'm a student at The University of Pretoria, South Africa, studying BIT (Information Systems).
+## I'm a Fullstack Software Engineer specializing in frontends with a BIT Honours (Information Systems) degree.
 
-- 🌱 I’m currently focusing on learning web development languages and technologies.
-- 🥅 2021 Goals: Develop an in-depth understanding of Full Stack Programming technologies and languages.
-- ⚡ Fun fact: I love doing any kind of adventurous sports or activities.
+- 🌱 I’m currently focusing on understanding advanced topics in frontend frameworks like Angular and React as well as pushing my abilities in product design.
+- 🥅 2024 Goals: Master Angular as well as various other frontend technologies as well as to develop a holistic mastery of product design.
+- ⚡ Fun fact: I love doing any kind of adventurous sports and activities.
 
 ### Connect with me:
 
