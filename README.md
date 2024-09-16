@@ -11,8 +11,8 @@ I blend **creativity** with **code** to build sleek, scalable, and high-performa
 <a href="https://github.com/SAED2906/SAED2906">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMarais&langs_count=3&theme=github_dark" />
 </a>
-<a href="https://github.com/SAED2906/SAED2906">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeMarais&show_icons=true&theme=github_dark" alt="William's GitHub Stats" />
+<a href="https://github.com/GeorgeMarais/GeorgeMarais">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeMarais&show_icons=true&theme=github_dark" alt="George's GitHub Stats" />
 </a>
 
 ### Languages and Tools:
