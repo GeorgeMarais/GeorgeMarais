@@ -1,6 +1,6 @@
 ### Hi, I'm George 👋
 
-# 👨‍💻 Fullstack Software Engineer | Frontend Enthusiast | Product Designer
+# 👨‍💻 Fullstack Software Engineer | Developer Advocate | Frontend Enthusiast | Product Designer
 
 I'm a **Fullstack Software Engineer** with a passion for **Frontend Development** and **Product Design**.  
 I blend **creativity** with **code** to build sleek, scalable, and high-performance applications at **BMW**.
