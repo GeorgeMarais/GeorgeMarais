@@ -1,11 +1,9 @@
 ### Hi, I'm George 👋
 
-# 👨‍💻 Frontend/Fullstack Software Engineer | Product Designer
+# 👨‍💻 Software Engineer | Product Designer
 
-I'm a **Fullstack Software Engineer** with a passion for **Frontend Development** and **Product Design**.  
-I blend **creativity** with **code** to build sleek, scalable, and high-performance applications at **BMW**.
-
-🚀 Let’s build something amazing!
+I'm a **Frontend/Fullstack Software Engineer** with a passion for **Frontend Development** and **Product Design**.  
+I blend **creativity** with **code** to build sleek, scalable, and high-performance applications at **AICA** and previously BMW.
 
 ### GitHub Stats
 <a href="https://github.com/SAED2906/SAED2906">
